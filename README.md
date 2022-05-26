@@ -1,2 +1,2 @@
 # Task-1.2
-hello hello
+task 1.2 is completed.
