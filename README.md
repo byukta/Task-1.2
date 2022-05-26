@@ -2,3 +2,4 @@
 task 1.2 is completed.
 .closed.
 .closed.
+.closed.
